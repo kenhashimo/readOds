@@ -1,4 +1,4 @@
-# WAVファイルを短くする
+# .odsファイルを読み出す
 
 このPerlモジュールは .ods
 ([OpenDocument](https://ja.wikipedia.org/wiki/OpenDocument) Spreadsheet)
